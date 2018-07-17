@@ -1,6 +1,8 @@
 # RxYourselfSample
 This is a sample used on presentation of "RxYourself - think big, think reactive"
 
+# Presentation
+You may find presentation as PDF file
 
 # Reactive Burgers
 Here you may find Reactive Burgers example that we covered on the meetup:
